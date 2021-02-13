@@ -1,0 +1,10 @@
+
+#SBT
+project/project
+target
+*/target
+
+#IntelliJ
+
+.bsp
+.idea
